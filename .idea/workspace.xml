@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64a5c371-05e1-4aa5-91c8-5f6a4a5a3260" name="Default Changelist" comment="" />
+    <list default="true" id="64a5c371-05e1-4aa5-91c8-5f6a4a5a3260" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BarberShop1/com/company/Barber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BarberShop1/com/company/Barber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BarberShop1/com/company/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BarberShop1/com/company/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BarberShop1/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BarberShop1/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BarberShop1/com/company/Seat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BarberShop1/com/company/Seat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Barber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Barber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Seat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Seat.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +26,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RJ8013pRgpkjSXBGVapJqqXpKl" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -61,10 +76,22 @@
       <updated>1569373611587</updated>
       <workItem from="1569373631705" duration="1140000" />
       <workItem from="1569385205838" duration="2191000" />
+      <workItem from="1569433945574" duration="4030000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

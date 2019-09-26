@@ -14,13 +14,13 @@ public class Main {
         for (int i = 0; i < 12; i++){
 	        if(i < 2)
             {
-                thread = new Thread(new Barber(seatList.get(i)));
+                thread = new Thread(new Barber(seatList.get(i), i + 1));
                 threadsList.add(thread);
                 thread.start();
             }
 	        else
             {
-                thread = new Thread(new Client());
+                thread = new Thread(new Client(seatList, i - 1));
                 threadsList.add(thread);
                 thread.start();
             }
